@@ -23,9 +23,6 @@ LSTM (Long Short-Term Memory)
 ![image](https://github.com/ritikparate/Gold-Price-Prediction/assets/97115288/70bf46a5-d37d-445b-9b54-3d1766b8407d)
 
 
-## Predictions using Streamlit
-https://github.com/ritikparate/Gold-Price-Prediction/assets/97115288/62710e30-f8cc-44cd-a327-23a58141e272
-
 
 ## Installation:
 
