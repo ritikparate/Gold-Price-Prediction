@@ -1,5 +1,8 @@
 # Gold Price Prediction with Streamlit Deployment
 
+Live Predictions over LocalHost
+![Gold_gif](https://github.com/ritikparate/Gold-Price-Prediction/assets/97115288/c7b1196f-91f7-4344-be79-e11cb497bf10)
+
 Welcome to our Gold Price Prediction GitHub repository! Here, we present a comprehensive gold price prediction project utilizing seven years of historical data. We've employed various powerful models including ARIMA, Prophet, Linear Regression, LSTM, and more to predict gold prices for the next 30 days. After rigorous model validation and evaluation, we've achieved an accuracy exceeding 95%. Additionally, we've deployed the most accurate model over the web using Streamlit, providing an interactive platform for users to access and visualize the forecasts.
 
 Key Features:
