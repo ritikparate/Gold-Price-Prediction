@@ -30,9 +30,10 @@ LSTM (Long Short-Term Memory)
 
 ## Installation:
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/gold-price-prediction.git
+### 1. To Clone the repository:
+      Click the following link
+      ```bash
+      git clone https://github.com/your-username/gold-price-prediction.git
 
 Disclaimer:
 
