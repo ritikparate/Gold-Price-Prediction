@@ -34,7 +34,7 @@ LSTM (Long Short-Term Memory)
       Click the following link
       ```bash
       git clone https://github.com/your-username/gold-price-prediction.git
-
+Disclaimer: The predictions provided by this Gold Price Prediction project are based on historical data and various forecasting models. They serve for educational and informational purposes only and should not be solely relied upon for financial decisions. Users are encouraged to conduct their own analysis and acknowledge the inherent uncertainty in predicting future market trends.
 Disclaimer:
 
 While the models exhibit high accuracy (>95%), predictions are based on historical data and should not be considered as financial advice. The gold market is subject to various factors that may impact prices unpredictably.
